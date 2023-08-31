@@ -4,34 +4,6 @@
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.18",
 	"elements": [
 		{
-			"type": "embeddable",
-			"version": 159,
-			"versionNonce": 733012440,
-			"isDeleted": false,
-			"id": "I4Wp1Yww",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -2007.428328642591,
-			"y": 460.5433437236306,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 1280.7159871582446,
-			"height": 873.193765856724,
-			"seed": 41567,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1693481945264,
-			"link": "https://excalidraw.com/#room=cde94e7029d9c7339b5a,nhz9qYL1sBI4r1l33CkXfg",
-			"locked": false,
-			"validated": true
-		},
-		{
 			"type": "text",
 			"version": 31,
 			"versionNonce": 1799640890,
@@ -1566,8 +1538,8 @@
 		},
 		{
 			"type": "arrow",
-			"version": 909,
-			"versionNonce": 760125144,
+			"version": 1079,
+			"versionNonce": 96697560,
 			"isDeleted": false,
 			"id": "3ZKYzo8wnIPCL-PC-PYpm",
 			"fillStyle": "hachure",
@@ -1576,11 +1548,11 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 725.7302209560206,
+			"x": 738.723336317916,
 			"y": 2583.886050200158,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 94.69750831036629,
+			"width": 102.78380625990667,
 			"height": 210.88572337481537,
 			"seed": 1099603814,
 			"groupIds": [],
@@ -1589,7 +1561,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1693482986851,
+			"updated": 1693483023109,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1611,15 +1583,15 @@
 					0
 				],
 				[
-					94.69750831036629,
+					102.78380625990667,
 					210.88572337481537
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 731,
-			"versionNonce": 2053499352,
+			"version": 775,
+			"versionNonce": 1029747672,
 			"isDeleted": false,
 			"id": "-A5UvP-oxrX8lpiyWJN18",
 			"fillStyle": "hachure",
@@ -1628,12 +1600,12 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 169.8204277768766,
+			"x": 168.37339757871328,
 			"y": 2580.814801829305,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 30.22944227829933,
-			"height": 209.01026161463278,
+			"width": 28.713661251506636,
+			"height": 209.01026161463233,
 			"seed": 1847698746,
 			"groupIds": [],
 			"frameId": null,
@@ -1641,7 +1613,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1693471893777,
+			"updated": 1693483068523,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1663,15 +1635,15 @@
 					0
 				],
 				[
-					30.22944227829933,
-					209.01026161463278
+					28.713661251506636,
+					209.01026161463233
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 791,
-			"versionNonce": 1897395880,
+			"version": 795,
+			"versionNonce": 1347475880,
 			"isDeleted": false,
 			"id": "7sQkyr9lHMJnldv9_eDCk",
 			"fillStyle": "hachure",
@@ -1680,11 +1652,11 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -487.650228346566,
+			"x": -482.80692649175023,
 			"y": 2589.1468464150807,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 125.3369334936815,
+			"width": 127.3821326179667,
 			"height": 218.10320490936783,
 			"seed": 43620966,
 			"groupIds": [],
@@ -1693,7 +1665,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1693482524166,
+			"updated": 1693485756205,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1715,7 +1687,7 @@
 					0
 				],
 				[
-					-125.3369334936815,
+					-127.3821326179667,
 					218.10320490936783
 				]
 			]
@@ -1797,8 +1769,8 @@
 		},
 		{
 			"type": "rectangle",
-			"version": 203,
-			"versionNonce": 702439384,
+			"version": 222,
+			"versionNonce": 2021083608,
 			"isDeleted": false,
 			"id": "WP6ZMlGFUM3EtzZ0BLHA4",
 			"fillStyle": "hachure",
@@ -1812,7 +1784,7 @@
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 727,
-			"height": 910,
+			"height": 1004.2476253949328,
 			"seed": 580249418,
 			"groupIds": [],
 			"frameId": null,
@@ -1825,14 +1797,14 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1693481677891,
+			"updated": 1693483068523,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 294,
-			"versionNonce": 577891544,
+			"version": 378,
+			"versionNonce": 2093503192,
 			"isDeleted": false,
 			"id": "YYU1Kfegin0UdEcK9E0tL",
 			"fillStyle": "hachure",
@@ -1846,7 +1818,7 @@
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 577.7019692605621,
-			"height": 1365.4540064870334,
+			"height": 1155.9457998622981,
 			"seed": 840846538,
 			"groupIds": [],
 			"frameId": null,
@@ -1859,7 +1831,7 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1693482986851,
+			"updated": 1693483023107,
 			"link": null,
 			"locked": false
 		},
@@ -2151,8 +2123,8 @@
 		},
 		{
 			"type": "text",
-			"version": 610,
-			"versionNonce": 750463192,
+			"version": 739,
+			"versionNonce": 1161699240,
 			"isDeleted": false,
 			"id": "99vvq8SG",
 			"fillStyle": "hachure",
@@ -2161,30 +2133,30 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 799.8009419552092,
-			"y": 3140.3120749079235,
+			"x": 794.2510633664132,
+			"y": 2842.0057142298906,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 560.6998291015625,
-			"height": 1035,
+			"height": 1125,
 			"seed": 806804630,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1693482976066,
+			"updated": 1693483042991,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "* Organisationsmatrix:\n  lineare Führung: zuständig für\n  Abteilung; hat im Projekt nur\n  die Aufgabe, die Personal=\n  ressourcen zur Verfügung zu \n  stellen\n  Projektmanager: kümmert sich\n  darum, was gemacht werden\n  soll und wie dies geschieht\n\nVorteile:\n+ Reossurcennutzung optimal,\n  da flexibel pro Projekt bereit\n  gestellt wird\n+ \"Staus\" bei guter Kommunika=\n  tion schnell lösbar\n\nNachteile:\n- verwirrend für Mitarbeiter \n  bzgl. Prioritäten\n- komplexe Kommunikation zw.\n  Linienführungskraft und Pro=\n  jektleiter",
-			"rawText": "* Organisationsmatrix:\n  lineare Führung: zuständig für\n  Abteilung; hat im Projekt nur\n  die Aufgabe, die Personal=\n  ressourcen zur Verfügung zu \n  stellen\n  Projektmanager: kümmert sich\n  darum, was gemacht werden\n  soll und wie dies geschieht\n\nVorteile:\n+ Reossurcennutzung optimal,\n  da flexibel pro Projekt bereit\n  gestellt wird\n+ \"Staus\" bei guter Kommunika=\n  tion schnell lösbar\n\nNachteile:\n- verwirrend für Mitarbeiter \n  bzgl. Prioritäten\n- komplexe Kommunikation zw.\n  Linienführungskraft und Pro=\n  jektleiter",
+			"text": "* Organisationsmatrix:\n  lineare Führung: zuständig für\n  Abteilung; hat im Projekt nur\n  die Aufgabe, die Personal=\n  ressourcen zur Verfügung zu \n  stellen\n  Projektmanager: kümmert sich\n  darum, was gemacht werden\n  soll und wie dies geschieht\n\nVorteile:\n+ Reossurcennutzung optimal,\n  da flexibel pro Projekt bereit\n  gestellt wird\n+ \"Staus\" bei guter Kommunika=\n  tion schnell lösbar\n+ gute Weiterentwicklungsmögl.\n  für alle Mitarbeitenden\n\nNachteile:\n- verwirrend für Mitarbeiter \n  bzgl. Prioritäten\n- komplexe Kommunikation zw.\n  Linienführungskraft und Pro=\n  jektleiter",
+			"rawText": "* Organisationsmatrix:\n  lineare Führung: zuständig für\n  Abteilung; hat im Projekt nur\n  die Aufgabe, die Personal=\n  ressourcen zur Verfügung zu \n  stellen\n  Projektmanager: kümmert sich\n  darum, was gemacht werden\n  soll und wie dies geschieht\n\nVorteile:\n+ Reossurcennutzung optimal,\n  da flexibel pro Projekt bereit\n  gestellt wird\n+ \"Staus\" bei guter Kommunika=\n  tion schnell lösbar\n+ gute Weiterentwicklungsmögl.\n  für alle Mitarbeitenden\n\nNachteile:\n- verwirrend für Mitarbeiter \n  bzgl. Prioritäten\n- komplexe Kommunikation zw.\n  Linienführungskraft und Pro=\n  jektleiter",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "* Organisationsmatrix:\n  lineare Führung: zuständig für\n  Abteilung; hat im Projekt nur\n  die Aufgabe, die Personal=\n  ressourcen zur Verfügung zu \n  stellen\n  Projektmanager: kümmert sich\n  darum, was gemacht werden\n  soll und wie dies geschieht\n\nVorteile:\n+ Reossurcennutzung optimal,\n  da flexibel pro Projekt bereit\n  gestellt wird\n+ \"Staus\" bei guter Kommunika=\n  tion schnell lösbar\n\nNachteile:\n- verwirrend für Mitarbeiter \n  bzgl. Prioritäten\n- komplexe Kommunikation zw.\n  Linienführungskraft und Pro=\n  jektleiter",
+			"originalText": "* Organisationsmatrix:\n  lineare Führung: zuständig für\n  Abteilung; hat im Projekt nur\n  die Aufgabe, die Personal=\n  ressourcen zur Verfügung zu \n  stellen\n  Projektmanager: kümmert sich\n  darum, was gemacht werden\n  soll und wie dies geschieht\n\nVorteile:\n+ Reossurcennutzung optimal,\n  da flexibel pro Projekt bereit\n  gestellt wird\n+ \"Staus\" bei guter Kommunika=\n  tion schnell lösbar\n+ gute Weiterentwicklungsmögl.\n  für alle Mitarbeitenden\n\nNachteile:\n- verwirrend für Mitarbeiter \n  bzgl. Prioritäten\n- komplexe Kommunikation zw.\n  Linienführungskraft und Pro=\n  jektleiter",
 			"lineHeight": 1.25,
-			"baseline": 1021
+			"baseline": 1111
 		},
 		{
 			"type": "text",
@@ -2239,10 +2211,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -562.1608648142492,
-		"scrollY": -3275.1469822138884,
+		"scrollX": 5688.764427641349,
+		"scrollY": 994.8163012249295,
 		"zoom": {
-			"value": 0.7895262630050296
+			"value": 0.15000000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
