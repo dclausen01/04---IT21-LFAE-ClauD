@@ -1451,7 +1451,7 @@
 			"containerId": null,
 			"originalText": "Aufgabe:\nFasst die zentralen Besonderheiten der Modelle hinsichtlich \nProjektorganisation, Einsatzgebieten und Vor- und Nach-\nteile zusammen!",
 			"lineHeight": 1.25,
-			"baseline": 212
+			"baseline": 213
 		},
 		{
 			"type": "line",
@@ -1642,8 +1642,8 @@
 		},
 		{
 			"type": "arrow",
-			"version": 795,
-			"versionNonce": 1347475880,
+			"version": 797,
+			"versionNonce": 1863715496,
 			"isDeleted": false,
 			"id": "7sQkyr9lHMJnldv9_eDCk",
 			"fillStyle": "hachure",
@@ -1652,11 +1652,11 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -482.80692649175023,
+			"x": -482.37209102211045,
 			"y": 2589.1468464150807,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 127.3821326179667,
+			"width": 127.56575221227945,
 			"height": 218.10320490936783,
 			"seed": 43620966,
 			"groupIds": [],
@@ -1665,7 +1665,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1693485756205,
+			"updated": 1693490755890,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1687,7 +1687,7 @@
 					0
 				],
 				[
-					-127.3821326179667,
+					-127.56575221227945,
 					218.10320490936783
 				]
 			]
@@ -2211,7 +2211,7 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 5688.764427641349,
+		"scrollX": 4393.5078108561065,
 		"scrollY": 994.8163012249295,
 		"zoom": {
 			"value": 0.15000000000000002
