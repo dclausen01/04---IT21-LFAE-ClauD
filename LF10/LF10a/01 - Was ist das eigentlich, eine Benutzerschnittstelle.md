@@ -1,7 +1,7 @@
 ---
 sticker: emoji//1f532
 ---
-Beispiele für Benutzerschnittstellen: 
+# Beispiele für Benutzerschnittstellen: 
 * Graphische Benutzeroberflächen
 * Terminal / CL
 * Sprachassistent
@@ -12,9 +12,9 @@ Beispiele für Benutzerschnittstellen:
 * Touch Interface
 * Kamera
 
-=> Verbindung zwischen Benutzer und Maschine durch ein Medium
-
-Diese Eigenschaften sollten sie generell haben: 
+`=> Verbindung zwischen Benutzer und Maschine durch ein Medium
+`
+# Diese Eigenschaften sollten sie generell haben: 
 * Leicht zugänglich, intuitiv
 * Angepasst an Bedürfnisse des Benutzers
 	* evtl. auch Anpassung an Gerät (Bsp. Handy / Laptop)
