@@ -813,7 +813,7 @@
 			"containerId": "rv0S_6p09ahQO3FyKMW3p",
 			"originalText": "1",
 			"lineHeight": 1.25,
-			"baseline": 23
+			"baseline": 24
 		},
 		{
 			"type": "freedraw",
@@ -1256,7 +1256,7 @@
 			"containerId": "7-TT_NmfjRhdV4x3HF9rs",
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 23
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
@@ -2269,7 +2269,7 @@
 			"containerId": "CBLxF-ZEM0ok_XS6Jgbcc",
 			"originalText": "3",
 			"lineHeight": 1.25,
-			"baseline": 23
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -2324,10 +2324,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 652.5957489013672,
-		"scrollY": 384.9843635559082,
+		"scrollX": 644.7436715830927,
+		"scrollY": 493.18351861704946,
 		"zoom": {
-			"value": 2
+			"value": 1.1500000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
