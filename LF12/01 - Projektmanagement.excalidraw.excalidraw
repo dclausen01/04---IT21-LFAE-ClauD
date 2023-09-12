@@ -1642,8 +1642,8 @@
 		},
 		{
 			"type": "arrow",
-			"version": 799,
-			"versionNonce": 259015471,
+			"version": 801,
+			"versionNonce": 1684051375,
 			"isDeleted": false,
 			"id": "7sQkyr9lHMJnldv9_eDCk",
 			"fillStyle": "hachure",
@@ -1652,12 +1652,12 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -482.2208253115257,
-			"y": 2589.146846415081,
+			"x": -482.16820468419326,
+			"y": 2589.1468464150807,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 127.62962774762605,
-			"height": 218.10320490936738,
+			"width": 127.6518480560369,
+			"height": 218.1032049093683,
 			"seed": 43620966,
 			"groupIds": [],
 			"frameId": null,
@@ -1665,7 +1665,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694074336776,
+			"updated": 1694546901663,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1687,8 +1687,8 @@
 					0
 				],
 				[
-					-127.62962774762605,
-					218.10320490936738
+					-127.6518480560369,
+					218.1032049093683
 				]
 			]
 		},
