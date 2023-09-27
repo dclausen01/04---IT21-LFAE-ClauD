@@ -1,0 +1,297 @@
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
+	"elements": [
+		{
+			"type": "embeddable",
+<<<<<<< HEAD
+			"version": 81,
+			"versionNonce": 1948531198,
+=======
+			"version": 79,
+			"versionNonce": 459495776,
+>>>>>>> 88e618953af9c3926d02779cadceb2df3b0d273c
+			"isDeleted": false,
+			"id": "DuGTkR5LPh_wEqT-T1TT4",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -463.8380126953125,
+			"y": -214.9834213256836,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 815.8958740234375,
+			"height": 840,
+			"seed": 1924147713,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+<<<<<<< HEAD
+			"updated": 1695067575954,
+=======
+			"updated": 1694603276049,
+>>>>>>> 88e618953af9c3926d02779cadceb2df3b0d273c
+			"link": "https://www.business-information-excellence.de/datenqualitaet/86-datenqualitaet-messen-11-datenqualitaets-kriterien",
+			"locked": false,
+			"validated": true
+		},
+		{
+			"type": "text",
+			"version": 266,
+			"versionNonce": 1346983457,
+			"isDeleted": false,
+			"id": "3baFwYdc",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -498.5395507781657,
+			"y": -283.2067642211914,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+<<<<<<< HEAD
+			"width": 890.35595703125,
+=======
+			"width": 890.397216796875,
+>>>>>>> 88e618953af9c3926d02779cadceb2df3b0d273c
+			"height": 33.09184239193472,
+			"seed": 1836122113,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1694544739694,
+			"link": null,
+			"locked": false,
+			"fontSize": 26.473473913547775,
+			"fontFamily": 1,
+			"text": "Datenqualität - Was ist das, wie messe und wie verbessere ich sie?",
+			"rawText": "Datenqualität - Was ist das, wie messe und wie verbessere ich sie?",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Datenqualität - Was ist das, wie messe und wie verbessere ich sie?",
+			"lineHeight": 1.25,
+<<<<<<< HEAD
+			"baseline": 21
+=======
+			"baseline": 23
+>>>>>>> 88e618953af9c3926d02779cadceb2df3b0d273c
+		},
+		{
+			"type": "line",
+			"version": 124,
+			"versionNonce": 1339812353,
+			"isDeleted": false,
+			"id": "mgdjWrVMw47KsHf_ZMHGQ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -499.5371806589834,
+			"y": -247.2940512559657,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 893.8276693651451,
+			"height": 0,
+			"seed": 1534954735,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1694544739694,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					893.8276693651451,
+					0
+				]
+			]
+		},
+		{
+			"type": "rectangle",
+			"version": 148,
+			"versionNonce": 1023570721,
+			"isDeleted": false,
+			"id": "B6YAUKA09lcoQ5QWc9xvJ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -485.7271728515625,
+			"y": -229.74903106689453,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 850.9417724609376,
+			"height": 869.3452758789062,
+			"seed": 88164527,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1694544763669,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 193,
+			"versionNonce": 156289985,
+			"isDeleted": false,
+			"id": "mKnM2Ktq",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 401.30279541015625,
+			"y": -200.11565399169922,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+<<<<<<< HEAD
+			"width": 436.6195068359375,
+=======
+			"width": 436.61962890625,
+>>>>>>> 88e618953af9c3926d02779cadceb2df3b0d273c
+			"height": 125,
+			"seed": 1753669345,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1694545010959,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Aufgabe\n\nFindet zu jedem Kriterium mind. ein weiteres \nBeispiel - möglichst aus Eurer Praxis!\n  ",
+			"rawText": "Aufgabe\n\nFindet zu jedem Kriterium mind. ein weiteres \nBeispiel - möglichst aus Eurer Praxis!\n  ",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Aufgabe\n\nFindet zu jedem Kriterium mind. ein weiteres \nBeispiel - möglichst aus Eurer Praxis!\n  ",
+			"lineHeight": 1.25,
+<<<<<<< HEAD
+			"baseline": 105
+=======
+			"baseline": 117
+>>>>>>> 88e618953af9c3926d02779cadceb2df3b0d273c
+		},
+		{
+			"type": "line",
+			"version": 38,
+			"versionNonce": 1560315951,
+			"isDeleted": false,
+			"id": "s8MXbe_4qET1c6MqGsoXN",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 397.9671630859375,
+			"y": -179.32770538330078,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 95.52276611328125,
+			"height": 0,
+			"seed": 1460815585,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1694544868484,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					95.52276611328125,
+					0
+				]
+			]
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 1,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+<<<<<<< HEAD
+		"scrollX": 771.6568106955502,
+		"scrollY": 319.2002356392996,
+		"zoom": {
+			"value": 0.7000000000000001
+=======
+		"scrollX": 617.8203259307459,
+		"scrollY": 313.42649706672216,
+		"zoom": {
+			"value": 0.8500000000000001
+>>>>>>> 88e618953af9c3926d02779cadceb2df3b0d273c
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
+		"currentStrokeOptions": null,
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
+	},
+	"prevTextMode": "parsed",
+	"files": {}
+}
