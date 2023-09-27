@@ -441,7 +441,7 @@
 			"y": 97.75717163085938,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 884.1817626953125,
+			"width": 883.8018798828125,
 			"height": 23.670993021877052,
 			"seed": 1026091151,
 			"groupIds": [
@@ -462,7 +462,7 @@
 			"containerId": null,
 			"originalText": "Interpretiert die oben angegebenen Bilder vor dem Hintergrund der Daten- und Prozessanalyse!",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 15
 		}
 	],
 	"appState": {
@@ -480,8 +480,8 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 615.2502014160157,
-		"scrollY": 471.79113312773336,
+		"scrollX": 642.8534729003907,
+		"scrollY": 416.02987824492084,
 		"zoom": {
 			"value": 1.25
 		},

@@ -1642,8 +1642,8 @@
 		},
 		{
 			"type": "arrow",
-			"version": 801,
-			"versionNonce": 1684051375,
+			"version": 803,
+			"versionNonce": 1938299562,
 			"isDeleted": false,
 			"id": "7sQkyr9lHMJnldv9_eDCk",
 			"fillStyle": "hachure",
@@ -1652,11 +1652,11 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -482.16820468419326,
+			"x": -482.1498996075825,
 			"y": 2589.1468464150807,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 127.6518480560369,
+			"width": 127.65957780895678,
 			"height": 218.1032049093683,
 			"seed": 43620966,
 			"groupIds": [],
@@ -1665,7 +1665,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694546901663,
+			"updated": 1695822284943,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1687,7 +1687,7 @@
 					0
 				],
 				[
-					-127.6518480560369,
+					-127.65957780895678,
 					218.1032049093683
 				]
 			]
@@ -2211,8 +2211,8 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 4201.8960758300655,
-		"scrollY": 994.8163012249295,
+		"scrollX": 1402.53196043293,
+		"scrollY": 994.679379024409,
 		"zoom": {
 			"value": 0.15000000000000002
 		},
