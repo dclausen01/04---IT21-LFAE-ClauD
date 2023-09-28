@@ -1250,7 +1250,7 @@
 			"y": -262.4995373852917,
 			"strokeColor": "#3E6F8D",
 			"backgroundColor": "transparent",
-			"width": 470.18511962890625,
+			"width": 470.4607238769531,
 			"height": 29.277295499407504,
 			"seed": 1896295119,
 			"groupIds": [],
@@ -1287,10 +1287,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 495.11850939298927,
-		"scrollY": 354.0639969675164,
+		"scrollX": 494.2341658980758,
+		"scrollY": 403.63080213086926,
 		"zoom": {
-			"value": 1.9000000000000001
+			"value": 1.35
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

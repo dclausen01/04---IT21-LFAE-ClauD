@@ -738,7 +738,7 @@
 			"containerId": null,
 			"originalText": "Beschreibt Euch gegenseitig Einsatzmöglichkeiten maschinellen Lernens und der \nDatenanalyse in Euren Betrieben. \nNennt dabei die betroffenen Aufgabengebiete und Kompetenzen. ",
 			"lineHeight": 1.25,
-			"baseline": 67
+			"baseline": 60
 		},
 		{
 			"type": "ellipse",
@@ -778,8 +778,8 @@
 		},
 		{
 			"type": "text",
-			"version": 166,
-			"versionNonce": 1953213039,
+			"version": 170,
+			"versionNonce": 1276811262,
 			"isDeleted": false,
 			"id": "jsLopMtq",
 			"fillStyle": "hachure",
@@ -801,7 +801,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1693933357766,
+			"updated": 1695067559300,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -813,7 +813,7 @@
 			"containerId": "rv0S_6p09ahQO3FyKMW3p",
 			"originalText": "1",
 			"lineHeight": 1.25,
-			"baseline": 23
+			"baseline": 21
 		},
 		{
 			"type": "freedraw",
@@ -1181,7 +1181,7 @@
 			"containerId": null,
 			"originalText": "Gebt ein Beispiel für jeden Einsatzbereich maschinellen Lernens an. \nOrdnen Sie diesem Beispiel ein oder mehrere Aufgabengebiete und \nKompetenzen zu (siehe S. 218).",
 			"lineHeight": 1.25,
-			"baseline": 67
+			"baseline": 60
 		},
 		{
 			"type": "ellipse",
@@ -1221,8 +1221,8 @@
 		},
 		{
 			"type": "text",
-			"version": 226,
-			"versionNonce": 60735887,
+			"version": 230,
+			"versionNonce": 293023870,
 			"isDeleted": false,
 			"id": "xrNTGNlx",
 			"fillStyle": "hachure",
@@ -1244,7 +1244,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1693933352079,
+			"updated": 1695067559301,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1256,7 +1256,7 @@
 			"containerId": "7-TT_NmfjRhdV4x3HF9rs",
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 23
+			"baseline": 21
 		},
 		{
 			"type": "rectangle",
@@ -1324,7 +1324,7 @@
 			"containerId": null,
 			"originalText": "Lest zunächst S. 214 bis 219 im Buch ",
 			"lineHeight": 1.25,
-			"baseline": 20
+			"baseline": 18
 		},
 		{
 			"type": "freedraw",
@@ -2194,7 +2194,7 @@
 			"containerId": null,
 			"originalText": "Betrachtet ein konkretes Verfahren maschinellen Lernens, z. B. \ndas Ergebnis aus Kapitel 3.1.1, Aufgabe 1, S. 219, und beschreiben \nSie Gründe, die gegen den Einsatz des Systems sprechen. Stellen \nSie dies außerdem einem potenziellen Nutzen des Systems gegenüber.",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 83
 		},
 		{
 			"type": "ellipse",
@@ -2234,8 +2234,8 @@
 		},
 		{
 			"type": "text",
-			"version": 247,
-			"versionNonce": 1647095265,
+			"version": 251,
+			"versionNonce": 568830206,
 			"isDeleted": false,
 			"id": "OUsynYyy",
 			"fillStyle": "hachure",
@@ -2257,7 +2257,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1693933364509,
+			"updated": 1695067559302,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2269,7 +2269,7 @@
 			"containerId": "CBLxF-ZEM0ok_XS6Jgbcc",
 			"originalText": "3",
 			"lineHeight": 1.25,
-			"baseline": 23
+			"baseline": 21
 		},
 		{
 			"type": "text",
@@ -2306,7 +2306,7 @@
 			"containerId": null,
 			"originalText": "Lest nun S. 219 bis 223 im Buch ",
 			"lineHeight": 1.25,
-			"baseline": 20
+			"baseline": 18
 		}
 	],
 	"appState": {
@@ -2324,10 +2324,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 652.5957489013672,
-		"scrollY": 384.9843635559082,
+		"scrollX": 651.5050855364118,
+		"scrollY": 368.27035249982555,
 		"zoom": {
-			"value": 2
+			"value": 1.4000000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
