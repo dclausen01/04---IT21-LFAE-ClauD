@@ -1,7 +1,7 @@
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.23",
 	"elements": [
 		{
 			"type": "image",
@@ -441,7 +441,7 @@
 			"y": 97.75717163085938,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 883.8018798828125,
+			"width": 884.1817626953125,
 			"height": 23.670993021877052,
 			"seed": 1026091151,
 			"groupIds": [
@@ -462,7 +462,7 @@
 			"containerId": null,
 			"originalText": "Interpretiert die oben angegebenen Bilder vor dem Hintergrund der Daten- und Prozessanalyse!",
 			"lineHeight": 1.25,
-			"baseline": 15
+			"baseline": 16
 		}
 	],
 	"appState": {
@@ -480,10 +480,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 642.8534729003907,
-		"scrollY": 416.02987824492084,
+		"scrollX": 603.4161130843623,
+		"scrollY": 401.3048262665942,
 		"zoom": {
-			"value": 1.25
+			"value": 1.55
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
