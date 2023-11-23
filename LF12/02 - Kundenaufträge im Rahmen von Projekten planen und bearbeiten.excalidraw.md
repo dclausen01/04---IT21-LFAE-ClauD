@@ -46,7 +46,7 @@ eines Netzplans und eines Gantt-Diagramms. ^YBfgHjXs
 
 
 # Embedded files
-aad5d15c47669241d800894588bad375f7f38b08: [[04 - IT21-LFAE-ClauD/Anhänge/Pasted Image 20230421000233_785.jpg]]
+aad5d15c47669241d800894588bad375f7f38b08: [[03 - IT21-LFAE-ClauD/Anhänge/Pasted Image 20230421000233_785.jpg]]
 
 %%
 # Drawing

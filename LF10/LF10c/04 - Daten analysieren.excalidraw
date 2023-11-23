@@ -1,7 +1,7 @@
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.23",
 	"elements": [
 		{
 			"type": "freedraw",
@@ -3825,8 +3825,8 @@
 		},
 		{
 			"type": "embeddable",
-			"version": 288,
-			"versionNonce": 1681177760,
+			"version": 298,
+			"versionNonce": 174158018,
 			"isDeleted": false,
 			"id": "ciFYu7RqGMrJ5r9xRxxKU",
 			"fillStyle": "hachure",
@@ -3835,8 +3835,8 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 277.36064802990154,
-			"y": -81.89425961045902,
+			"x": 275.66088464068184,
+			"y": -78.49467771647556,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 560,
@@ -3857,15 +3857,15 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1694603186602,
+			"updated": 1697036078321,
 			"link": "https://www.youtube.com/watch?v=1S4Cgtkxqhs",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "arrow",
-			"version": 407,
-			"versionNonce": 681710145,
+			"version": 416,
+			"versionNonce": 1388139874,
 			"isDeleted": false,
 			"id": "coxmxF-jLwyCMfaLyY-Yl",
 			"fillStyle": "hachure",
@@ -3878,8 +3878,8 @@
 			"y": -147.05743362788448,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 82.09589819695714,
-			"height": 49.63810794894923,
+			"width": 83.4083188940159,
+			"height": 53.03768984293265,
 			"seed": 1013988591,
 			"groupIds": [],
 			"frameId": null,
@@ -3887,7 +3887,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694546702872,
+			"updated": 1695067601814,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3913,8 +3913,8 @@
 					6.575362411251689
 				],
 				[
-					82.09589819695714,
-					49.63810794894923
+					83.4083188940159,
+					53.03768984293265
 				]
 			]
 		},
@@ -4006,8 +4006,8 @@
 		},
 		{
 			"type": "embeddable",
-			"version": 154,
-			"versionNonce": 872078688,
+			"version": 158,
+			"versionNonce": 1530688606,
 			"isDeleted": false,
 			"id": "JVEX5_RgWN4hS7AWqBCmi",
 			"fillStyle": "hachure",
@@ -4034,7 +4034,7 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1694603186602,
+			"updated": 1697036078321,
 			"link": "https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb",
 			"locked": false,
 			"validated": true
@@ -4141,8 +4141,8 @@
 		},
 		{
 			"type": "embeddable",
-			"version": 6,
-			"versionNonce": 1135880352,
+			"version": 10,
+			"versionNonce": 1547307138,
 			"isDeleted": false,
 			"id": "Ga_KqNRx0o7zw-g9DzYtS",
 			"fillStyle": "solid",
@@ -4169,15 +4169,15 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1694603186602,
+			"updated": 1697036078321,
 			"link": "https://learn.microsoft.com/de-de/training/modules/python-create-run-jupyter-notebook/",
 			"locked": false,
 			"validated": true
 		},
 		{
 			"type": "arrow",
-			"version": 141,
-			"versionNonce": 910938721,
+			"version": 150,
+			"versionNonce": 1156602146,
 			"isDeleted": false,
 			"id": "dwqdjRQ7b-KbyJHeJ7zHZ",
 			"fillStyle": "hachure",
@@ -4186,12 +4186,12 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 549.6071249134097,
-			"y": 257.3560201359327,
+			"x": 554.8905448756745,
+			"y": 260.75560202991613,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 60.63443104518342,
-			"height": 75.5271763061362,
+			"height": 72.12759441215275,
 			"seed": 1229694817,
 			"groupIds": [],
 			"frameId": null,
@@ -4199,7 +4199,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694546690485,
+			"updated": 1695067601815,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4221,12 +4221,12 @@
 					0
 				],
 				[
-					60.27797922743116,
-					27.657886689218856
+					54.994559265166345,
+					24.258304795235404
 				],
 				[
-					-0.35645181775225865,
-					75.5271763061362
+					-5.639871780017074,
+					72.12759441215275
 				]
 			]
 		},
@@ -4306,8 +4306,8 @@
 		},
 		{
 			"type": "embeddable",
-			"version": 59,
-			"versionNonce": 527970656,
+			"version": 63,
+			"versionNonce": 581580958,
 			"isDeleted": false,
 			"id": "lK-_mvN3qsDyvOKjm-cQg",
 			"fillStyle": "hachure",
@@ -4334,7 +4334,7 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1694603186602,
+			"updated": 1697036078321,
 			"link": "https://www.inf-schule.de/projekte/markdown_latex_jupyter_notebook/jupyter/grundlagen",
 			"locked": false,
 			"validated": true
@@ -4718,10 +4718,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 504.11567095908725,
-		"scrollY": 569.5736494569285,
+		"scrollX": 1851.6451144560078,
+		"scrollY": 596.7422350738555,
 		"zoom": {
-			"value": 1.3168868003903702
+			"value": 0.35000000000000003
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

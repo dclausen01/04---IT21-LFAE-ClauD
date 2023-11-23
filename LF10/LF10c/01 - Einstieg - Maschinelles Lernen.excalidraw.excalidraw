@@ -1,7 +1,7 @@
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.23",
 	"elements": [
 		{
 			"type": "freedraw",
@@ -717,7 +717,7 @@
 			"y": -278.5519104003906,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 770.8792114257812,
+			"width": 770.8792724609375,
 			"height": 75,
 			"seed": 1975003727,
 			"groupIds": [
@@ -738,7 +738,7 @@
 			"containerId": null,
 			"originalText": "Beschreibt Euch gegenseitig Einsatzmöglichkeiten maschinellen Lernens und der \nDatenanalyse in Euren Betrieben. \nNennt dabei die betroffenen Aufgabengebiete und Kompetenzen. ",
 			"lineHeight": 1.25,
-			"baseline": 60
+			"baseline": 67
 		},
 		{
 			"type": "ellipse",
@@ -778,8 +778,8 @@
 		},
 		{
 			"type": "text",
-			"version": 170,
-			"versionNonce": 1276811262,
+			"version": 172,
+			"versionNonce": 656931742,
 			"isDeleted": false,
 			"id": "jsLopMtq",
 			"fillStyle": "hachure",
@@ -788,11 +788,11 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -586.0613002835823,
+			"x": -586.0612850247933,
 			"y": -265.4337524471883,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 7.5880279541015625,
+			"width": 7.5879974365234375,
 			"height": 35,
 			"seed": 1513538991,
 			"groupIds": [
@@ -801,7 +801,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1695067559300,
+			"updated": 1697110012529,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -813,7 +813,7 @@
 			"containerId": "rv0S_6p09ahQO3FyKMW3p",
 			"originalText": "1",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 24
 		},
 		{
 			"type": "freedraw",
@@ -1160,7 +1160,7 @@
 			"y": -177.56478881835938,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 663.2192993164062,
+			"width": 663.219482421875,
 			"height": 75,
 			"seed": 100543521,
 			"groupIds": [
@@ -1181,7 +1181,7 @@
 			"containerId": null,
 			"originalText": "Gebt ein Beispiel für jeden Einsatzbereich maschinellen Lernens an. \nOrdnen Sie diesem Beispiel ein oder mehrere Aufgabengebiete und \nKompetenzen zu (siehe S. 218).",
 			"lineHeight": 1.25,
-			"baseline": 60
+			"baseline": 67
 		},
 		{
 			"type": "ellipse",
@@ -1221,8 +1221,8 @@
 		},
 		{
 			"type": "text",
-			"version": 230,
-			"versionNonce": 293023870,
+			"version": 232,
+			"versionNonce": 1106783262,
 			"isDeleted": false,
 			"id": "xrNTGNlx",
 			"fillStyle": "hachure",
@@ -1231,11 +1231,11 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -591.6894058959443,
+			"x": -591.6893601195771,
 			"y": -171.38917434373025,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 19.936080932617188,
+			"width": 19.935989379882812,
 			"height": 35,
 			"seed": 165670831,
 			"groupIds": [
@@ -1244,7 +1244,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1695067559301,
+			"updated": 1697110012533,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1256,7 +1256,7 @@
 			"containerId": "7-TT_NmfjRhdV4x3HF9rs",
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
@@ -1305,7 +1305,7 @@
 			"y": -323.7857437133789,
 			"strokeColor": "#3E6F8D",
 			"backgroundColor": "transparent",
-			"width": 448.04278564453125,
+			"width": 448.3053894042969,
 			"height": 29.277295499407504,
 			"seed": 1184269377,
 			"groupIds": [],
@@ -1324,7 +1324,7 @@
 			"containerId": null,
 			"originalText": "Lest zunächst S. 214 bis 219 im Buch ",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 20
 		},
 		{
 			"type": "freedraw",
@@ -2172,7 +2172,7 @@
 			"y": -15.3599853515625,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 670.459228515625,
+			"width": 670.4594116210938,
 			"height": 100,
 			"seed": 1443923457,
 			"groupIds": [
@@ -2194,7 +2194,7 @@
 			"containerId": null,
 			"originalText": "Betrachtet ein konkretes Verfahren maschinellen Lernens, z. B. \ndas Ergebnis aus Kapitel 3.1.1, Aufgabe 1, S. 219, und beschreiben \nSie Gründe, die gegen den Einsatz des Systems sprechen. Stellen \nSie dies außerdem einem potenziellen Nutzen des Systems gegenüber.",
 			"lineHeight": 1.25,
-			"baseline": 83
+			"baseline": 92
 		},
 		{
 			"type": "ellipse",
@@ -2234,8 +2234,8 @@
 		},
 		{
 			"type": "text",
-			"version": 251,
-			"versionNonce": 568830206,
+			"version": 253,
+			"versionNonce": 1641430174,
 			"isDeleted": false,
 			"id": "OUsynYyy",
 			"fillStyle": "hachure",
@@ -2244,11 +2244,11 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -588.8989849149301,
+			"x": -588.8989391385629,
 			"y": 6.857537836014853,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 19.068084716796875,
+			"width": 19.0679931640625,
 			"height": 35,
 			"seed": 696551183,
 			"groupIds": [
@@ -2257,7 +2257,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1695067559302,
+			"updated": 1697110012537,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2269,7 +2269,7 @@
 			"containerId": "CBLxF-ZEM0ok_XS6Jgbcc",
 			"originalText": "3",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -2287,7 +2287,7 @@
 			"y": -60.06233091620766,
 			"strokeColor": "#3E6F8D",
 			"backgroundColor": "transparent",
-			"width": 392.00823974609375,
+			"width": 392.2379455566406,
 			"height": 29.277295499407504,
 			"seed": 2088676719,
 			"groupIds": [],
@@ -2306,7 +2306,7 @@
 			"containerId": null,
 			"originalText": "Lest nun S. 219 bis 223 im Buch ",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 20
 		}
 	],
 	"appState": {
@@ -2324,10 +2324,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 651.5050855364118,
-		"scrollY": 368.27035249982555,
+		"scrollX": 640.1313347449669,
+		"scrollY": 444.8420999967135,
 		"zoom": {
-			"value": 1.4000000000000001
+			"value": 1.3
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
