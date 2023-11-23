@@ -1,5 +1,6 @@
 ---
 sticker: emoji//1f532
+dg-publish: true
 ---
 # Aufgabe 
 

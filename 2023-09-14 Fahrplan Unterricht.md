@@ -9,7 +9,7 @@ hier der Fahrplan für heute, direkt zum Abhaken, damit ihr den Überblick behal
 * Bearbeitet bitte zuerst [[02 - Daten aus heterogenen Quellen analysieren und aufbereiten.excalidraw]] 
 	* verwendet als Lernplattformen für Aufgabe 1 *Moodle* und *schul.cloud*
 	* Bei Aufgabe 2 ist es ggf. nötig, noch einmal das Wissen über Datenbanken aufzufrischen (wenn ihr nicht sowieso noch "gut drin" seid). Für einen ganz schnellen Überblick empiehlt sich z. B.: https://www.datenbanken-verstehen.de/datenmodellierung/normalisierung/
-* Im nächsten Schritt geht es um [[03 - Datenqualität.excalidraw]]. Die Aufgabe ist recht überschaubar, tauscht Euch aber bitte zu Euren Ergebnissen aus, damit ihr beide einen Überblick über verschiedene Bereiche bekommt.
+* Im nächsten Schritt geht es um [[03 - Datenqualitaet.excalidraw]]. Die Aufgabe ist recht überschaubar, tauscht Euch aber bitte zu Euren Ergebnissen aus, damit ihr beide einen Überblick über verschiedene Bereiche bekommt.
 * So langsam geht es etwas mehr in die Praxis - dafür verwendet unser Lehrbuch das **Jupyter Notebook** (und einige andere Frameworks). Zur Einrichtung, Testung usw. habe ich Euch eine Lernumgebung erstellt: [[04 - Daten analysieren.excalidraw]]. Arbeitet diese bitte durch, sodass ihr nächstes Mal erste Erfahrungen mit Jupyter Notebook habt und dieses auf Euren Rechnern eingerichtet ist.
 * In **Lernfeld 12** habe ich Euch eine passende IHK-Arbeit mit zwei Aufgaben herausgesucht. Alles weitere findet ihr in der Datei [[2023-09-14 Übungsaufgaben]]. Hier werden einige Recherchen nötig sein, gefolgt von den beiden Aufgaben.
 

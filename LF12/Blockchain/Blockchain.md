@@ -1,5 +1,4 @@
 ---
-sticker: emoji//1f33b
 _filters: []
 _contexts: []
 _links: []

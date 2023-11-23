@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 1. https://www.inf-schule.de/kryptologie/blockchain
 2. https://hub.hslu.ch/informatik/blockchain-einfach-erklaert/
 3. https://www.youtube.com/watch?v=_160oMzblY8
