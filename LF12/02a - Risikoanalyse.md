@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 sticker: emoji//2139-fe0f
 ---
 

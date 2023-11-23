@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 Die **Blockchain-Technologie** ist ein dezentrales, verteiltes Ledger-System (Ledger, dt.: Kontobuch), das auf einem Netzwerk von Computern basiert und in der Lage ist, Daten auf sichere und transparente Weise zu speichern und zu übertragen. Die Blockchain ist eine der wichtigsten Innovationen der letzten Jahre und hat das Potenzial, viele Branchen zu revolutionieren.
 

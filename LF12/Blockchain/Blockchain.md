@@ -6,5 +6,4 @@ _sort:
   field: name
   asc: true
   group: true
-sticker: ui//mk-mark-code
 ---

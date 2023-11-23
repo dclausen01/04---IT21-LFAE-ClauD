@@ -1,7 +1,7 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "vscode-webview://0qpfvgl7p1k053omaao7rsiicv0hc56kusd0atsbpg2no4feadcq",
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
   "elements": [
     {
       "type": "image",
@@ -23,6 +23,7 @@
       "height": 565.6400146484375,
       "seed": 1826184470,
       "groupIds": [],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
       "updated": 1700128541268,
@@ -55,6 +56,7 @@
       "height": 190.77024697119123,
       "seed": 1091457418,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -96,8 +98,8 @@
     },
     {
       "type": "text",
-      "version": 178,
-      "versionNonce": 230556042,
+      "version": 179,
+      "versionNonce": 1365648027,
       "isDeleted": false,
       "id": "lWmqjbAq",
       "fillStyle": "hachure",
@@ -116,9 +118,10 @@
       "groupIds": [
         "JGboPP53k3QTGvF2Lxvj4"
       ],
+      "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1700128522315,
+      "updated": 1700727216745,
       "link": null,
       "locked": false,
       "fontSize": 25.68960361386681,
@@ -127,7 +130,9 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "Praxiseinheit: Web diary [Python & Django]"
+      "originalText": "Praxiseinheit: Web diary [Python & Django]",
+      "lineHeight": 1.1677875786221361,
+      "baseline": 21
     },
     {
       "type": "line",
@@ -151,6 +156,7 @@
       "groupIds": [
         "JGboPP53k3QTGvF2Lxvj4"
       ],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
@@ -194,6 +200,7 @@
       "height": 565.4400482177734,
       "seed": 564764694,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 3
       },
@@ -222,6 +229,7 @@
       "height": 12.480010986328125,
       "seed": 1926700170,
       "groupIds": [],
+      "frameId": null,
       "roundness": {
         "type": 2
       },
