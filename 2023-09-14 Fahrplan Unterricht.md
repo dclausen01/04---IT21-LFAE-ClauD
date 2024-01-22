@@ -1,5 +1,12 @@
 ---
 sticker: lucide//table
+gists:
+  - id: ecd1ffef2d13d558b61b4bf30a7b538e
+    url: 'https://gist.github.com/dclausen01/ecd1ffef2d13d558b61b4bf30a7b538e'
+    createdAt: '2024-01-20T10:50:56Z'
+    updatedAt: '2024-01-20T10:51:12Z'
+    filename: 2023-09-14 Fahrplan Unterricht.md
+    isPublic: true
 ---
 Liebe Leute,
 hier der Fahrplan für heute, direkt zum Abhaken, damit ihr den Überblick behaltet  😉
