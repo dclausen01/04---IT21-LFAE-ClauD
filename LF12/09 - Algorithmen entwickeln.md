@@ -117,6 +117,8 @@ function sumUp(n) {
 
 ## Anwendungsentwicklung Teil 1
 
+**Aufgabe 1**
+
 ### Aufgabe 2
 - Klassendiagramme lesen (LF 11)
 - Code schreiben & Algorithmen implementieren (LF 5 / LF 8)
