@@ -100,6 +100,8 @@ function sumUp(n) {
 	console.timeEnd("Rekursiv down2");
 }
 ```
+**Logischer Aufbau:**
+![[PXL_20240321_094241251.MP.jpg]]
 
 **Anforderungen:**
 
